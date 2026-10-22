@@ -1,6 +1,6 @@
 <div align="center">
 
-![Addan Abdullah — full-stack engineer building AI products](./assets/hero.svg)
+![Addan Abdullah // full-stack engineer building AI products](./assets/hero.svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-AA--Siddiqui-404040?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AA-Siddiqui)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Addan%20Abdullah-404040?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/addan-abdullah)
@@ -16,17 +16,17 @@ I build tools that help people create websites, choose education paths, explore 
 
 ![Six products: eComGear, IDPicker, Mirofish, OneNET, BuildWeaver, and OneMail](./assets/products.svg)
 
-**[eComGear](https://www.ecomgear.dev/) — AI website and app builder.** Describe what you want in plain language, inspect the generated site in a live preview, request changes, and publish it. Built with React/Vite, an Express and TypeScript agent runtime, Supabase, and separate preview and hosting services.
+**[eComGear](https://www.ecomgear.dev/) // AI website and app builder.** Describe what you want in plain language, inspect the generated site in a live preview, request changes, and publish it. Built with React/Vite, an Express and TypeScript agent runtime, Supabase, and separate preview and hosting services.
 
-**[IDPicker](https://idpicker.com/) — education and career guidance.** Students complete assessments and explore personalized study and career options; advisors and administrators have their own workflows. Built with Next.js and TypeScript interfaces, a Django REST backend, PostgreSQL, and Gemini-powered recommendations.
+**[IDPicker](https://idpicker.com/) // education and career guidance.** Students complete assessments and explore personalized study and career options; advisors and administrators have their own workflows. Built with Next.js and TypeScript interfaces, a Django REST backend, PostgreSQL, and Gemini-powered recommendations.
 
-**[Mirofish](https://mirofish.life/) — prediction through multi-agent simulation.** Upload source material, run simulations across possible scenarios, then inspect reports and replay what happened. The app uses React and TypeScript, an Express API, PostgreSQL-backed background jobs, and object storage for artifacts.
+**[Mirofish](https://mirofish.life/) // prediction through multi-agent simulation.** Upload source material, run simulations across possible scenarios, then inspect reports and replay what happened. The app uses React and TypeScript, an Express API, PostgreSQL-backed background jobs, and object storage for artifacts.
 
-**OneNET — cross-platform connectivity app.** Import and manage connection profiles, choose endpoints, and connect through multiple proxy protocols from one interface. Built with Flutter/Dart and sing-box, with code for Android, iOS, Windows, macOS, and Linux.
+**OneNET // cross-platform connectivity app.** Import and manage connection profiles, choose endpoints, and connect through multiple proxy protocols from one interface. Built with Flutter/Dart and sing-box, with code for Android, iOS, Windows, macOS, and Linux.
 
-**[BuildWeaver](https://github.com/AA-Siddiqui/BuildWeaver) — visual app builder.** Design interfaces in a React editor and generate code for full-stack applications. Its NestJS API, PostgreSQL and Redis services, and shared code-generation packages support the editing and build workflow.
+**[BuildWeaver](https://github.com/AA-Siddiqui/BuildWeaver) // visual app builder.** Design interfaces in a React editor and generate code for full-stack applications. Its NestJS API, PostgreSQL and Redis services, and shared code-generation packages support the editing and build workflow.
 
-**OneMail — email agent with human review.** Connect mailboxes, retrieve relevant context, generate reply drafts, and approve a message before it is sent. Built with TypeScript, IMAP/SMTP, PostgreSQL with pgvector, and Redis for durable workflow processing.
+**OneMail // email agent with human review.** Connect mailboxes, retrieve relevant context, generate reply drafts, and approve a message before it is sent. Built with TypeScript, IMAP/SMTP, PostgreSQL with pgvector, and Redis for durable workflow processing.
 
 ### More projects
 
