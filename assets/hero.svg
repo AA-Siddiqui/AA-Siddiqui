@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 318" role="img" aria-label="Addan Abdullah, full-stack software engineer building AI products">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101010"/><stop offset=".55" stop-color="#1b1b1b"/><stop offset="1" stop-color="#181818"/></linearGradient>
+  <linearGradient id="aqua" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffa116"/><stop offset="1" stop-color="#f0ad4e"/></linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffa116"/><stop offset="1" stop-color="#f0ad4e"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#404040" stroke-opacity=".25"/></pattern>
+</defs>
+<rect width="1200" height="318" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="318" rx="24" fill="url(#grid)"/>
+<path d="M0 0H1200V318H0Z" fill="none" stroke="#404040" stroke-width="2"/>
+<path d="M870 -40C965 30 1010 105 1082 161C1133 200 1190 220 1250 229" fill="none" stroke="#ffa116" stroke-opacity=".35" stroke-width="2"/>
+<path d="M800 0C895 70 950 118 1017 188C1074 247 1144 278 1220 301" fill="none" stroke="#f0ad4e" stroke-opacity=".28" stroke-width="2"/>
+<circle cx="1050" cy="150" r="114" fill="none" stroke="#ffa116" stroke-opacity=".28" stroke-width="2"/>
+<circle cx="1050" cy="150" r="76" fill="none" stroke="#f0ad4e" stroke-opacity=".36" stroke-width="2"/>
+<circle cx="1050" cy="150" r="26" fill="url(#aqua)" opacity=".9"/>
+<circle cx="1050" cy="150" r="8" fill="#101010"/>
+<circle cx="920" cy="46" r="5" fill="#ffa116"/><circle cx="1162" cy="246" r="5" fill="#f0ad4e"/>
+<rect x="50" y="45" width="4" height="226" rx="2" fill="url(#aqua)"/>
+<text x="78" y="83" fill="#ffa116" font-family="Consolas, monospace" font-size="17" letter-spacing="3">FULL-STACK ENGINEER  /  AI PRODUCTS</text>
+<text x="78" y="164" fill="#f0f0f0" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="1">ADDAN ABDULLAH</text>
+<text x="80" y="213" fill="#dcdcdc" font-family="Segoe UI, Arial, sans-serif" font-size="25">I turn ambitious ideas into working software.</text>
+<text x="80" y="263" fill="#a8a8a8" font-family="Consolas, monospace" font-size="16">BUILDERS  •  SIMULATIONS  •  EDUCATION  •  AGENTS</text>
+</svg>
